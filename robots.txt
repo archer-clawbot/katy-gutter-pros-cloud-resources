@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archer-clawbot.github.io/katy-gutter-pros-cloud-resources/sitemap.xml
